@@ -25,7 +25,7 @@ public class Test {
         /*
         Paciente paciente = new Paciente("AACA250916HMCR", "ORH+", "Tos", "No", "", 25, "Mujer", "Aldo", "Aldaco", "Contreras");
         RegistrarPacienteBs.actualiza(paciente);*/
-        
+        //Probando GitHub...
         JOptionPane.showConfirmDialog(null, "Realmente desea salir de Hola Swing?", "Confirmar salida", JOptionPane.OK_OPTION, JOptionPane.QUESTION_MESSAGE);
     }
 }
