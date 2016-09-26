@@ -29,7 +29,7 @@ public class Paciente extends Usuario{
         this.edad = edad;
         this.sexo = sexo;
     }
-    /*COMENTRIO X*/
+    /*Se obtiene la curp del paciente*/
     public String getCurp() {
         return curp;
     }
@@ -37,7 +37,7 @@ public class Paciente extends Usuario{
     public void setCurp(String curp) {
         this.curp = curp;
     }
-
+    /*Se obtiene la curp del paciente*/
     public String getTipoSangre() {
         return tipoSangre;
     }
