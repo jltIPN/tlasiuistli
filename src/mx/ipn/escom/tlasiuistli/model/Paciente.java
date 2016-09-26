@@ -29,7 +29,7 @@ public class Paciente extends Usuario{
         this.edad = edad;
         this.sexo = sexo;
     }
-    
+    /*COMENTRIO X*/
     public String getCurp() {
         return curp;
     }
